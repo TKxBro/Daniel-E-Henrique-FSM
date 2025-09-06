@@ -1,0 +1,4 @@
+repository "TrabalhoPraticoFSM/TrabalhoPraticoFSM@4673690233291@cloud"
+  path "/"
+    br "/main"
+    co "/main"
